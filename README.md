@@ -8,3 +8,5 @@ About game -
  2) Game can be restart using "Name Game" button.
 
  3) The first turn of player in each game is decided using the previous game result (initally player 1 playes first ).
+
+Game Link - https://abhisheksp120.github.io/Tic-Tac-Toe/
